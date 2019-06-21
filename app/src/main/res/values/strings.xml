@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kasratools</string>
+
+    <string-array name="Absen">
+        <item>Izin</item>
+        <item>Sakit</item>
+        <item>Pulang</item>
+        <item>Alfa</item>
+    </string-array>
+
+    <string name="profile_dc">Dean Christoper
+    14116052
+    Teknik Informatika</string>
+    <string name="profile_kj">Rizki Juliansyah
+    14116151
+    Teknik Informatika</string>
+    <string name="Copyright">THANKS</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+
+    <string name="defaultpassword">Page
+        <a href="https://www.crazycodersclub.com/">
+            https://www.crazycodersclub.com/</a></string>
+</resources>
